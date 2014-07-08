@@ -1,9 +1,6 @@
-(function(){
-/*
-Uploads = new FS.Collection("uploads", {
-  stores: [new FS.Store.FileSystem("uploads", {path: "~/uploads"})]
-});
-*/
+/*(function(){
+
+
 
 uploadStore = new FS.Store.FileSystem("uploads", {
   path: "~/tasks/public", //optional, default is "/cfs/files" path within app container
@@ -17,3 +14,5 @@ Uploads = new FS.Collection("uploads", {
 });
 
 })();
+
+*/
