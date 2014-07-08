@@ -1,0 +1,65 @@
+{
+  "format": "browser-program-pre1",
+  "page": "app.html",
+  "manifest": [
+    {
+      "path": "c9deca11c367cae51a233c797ea273aac5fb34ad.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/c9deca11c367cae51a233c797ea273aac5fb34ad.js",
+      "size": 644183,
+      "hash": "c9deca11c367cae51a233c797ea273aac5fb34ad"
+    },
+    {
+      "path": "5a1bcf259c1a198adbf2fdca1217b0d2b94c244e.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/5a1bcf259c1a198adbf2fdca1217b0d2b94c244e.css?meteor_css_resource=true",
+      "size": 122913,
+      "hash": "5a1bcf259c1a198adbf2fdca1217b0d2b94c244e"
+    },
+    {
+      "path": "packages/bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.eot",
+      "size": 20335,
+      "hash": "f3a9a3b609133c3d21d6b42abbf7f43bd111df72"
+    },
+    {
+      "path": "packages/bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.ttf",
+      "size": 41280,
+      "hash": "aafafdc09404c4aa4447d7e898a2183def9cc1b1"
+    },
+    {
+      "path": "packages/bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.svg",
+      "size": 62927,
+      "hash": "3ef91859cbec165ac97df6957b176f69e8d6a04d"
+    },
+    {
+      "path": "packages/bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.woff",
+      "size": 23320,
+      "hash": "22037a3455914e5662fa51a596677bdb329e2c5c"
+    },
+    {
+      "path": "app.html",
+      "where": "internal",
+      "hash": "52fd7f85753bdcd557550e32a9c96fcc3118a42a"
+    }
+  ]
+}
